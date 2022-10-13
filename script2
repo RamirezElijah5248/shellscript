@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "my first name is $1"
+echo "My surname is $2"
+echo "total number of arguments is $#"

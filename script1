@@ -1,0 +1,10 @@
+#!/bin/bash
+# first script
+#
+clear
+echo "my first shell script"
+echo $PS1
+echo $PATH
+echo $PWD
+echo $HOME
+echo "Hello world"
